@@ -1,8 +1,9 @@
 <div align="center">                                                                        
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/Helpmate-AI)
-  ![GitHub stars](https://img.shields.io/github/stars/codeaashu/Helpmate-AI?style=social) 
-  ![GitHub forks](https://img.shields.io/github/forks/codeaashu/Helpmate-AI?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/devDisplay)
+  ![GitHub stars](https://img.shields.io/github/stars/codeaashu/devDisplay?style=social) 
+  ![GitHub stars](https://img.shields.io/github/issues/codeaashu/devDisplay?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codeaashu/devDisplay?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
 
 <hr>
