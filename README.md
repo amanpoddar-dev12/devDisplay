@@ -1,3 +1,22 @@
+<div align="center">                                                                        
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/Helpmate-AI)
+  ![GitHub stars](https://img.shields.io/github/stars/codeaashu/Helpmate-AI?style=social) 
+  ![GitHub forks](https://img.shields.io/github/forks/codeaashu/Helpmate-AI?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
+
+<hr>
+  <h1 align="center">👨🏻‍💻 Introducing to DevDisplay 👨🏻‍💻</h1>
+  <img src="./public/devDisplay.png" width="100px" />
+  <br><a href="https://devdisplay.vercel.app/"><strong>Dev Display</strong></a>
+  <h4 align="center">✦ Discover and Connect with Skilled Developers! ✦</h4></br>
+  
+  
+  ` DevDisplay is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format. `
+</div>
+
+
+
 <div align="center">
 <h1>👩‍💻 devDisplay - Discover and Connect with Skilled Developers!</h1>
 </div>
