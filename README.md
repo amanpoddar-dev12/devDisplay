@@ -7,7 +7,7 @@
 
 <hr>
   <h1 align="center">👨🏻‍💻 Introducing to DevDisplay 👨🏻‍💻</h1>
-  <img src="./public/devDisplay.png" width="100px" />
+  <img src="./public/devDisplayLOGO.png" width="100px" />
   <br><a href="https://devdisplay.vercel.app/"><strong>Dev Display</strong></a>
   <h4 align="center">✦ Discover and Connect with Skilled Developers! ✦</h4></br>
   
