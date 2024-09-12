@@ -4,6 +4,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/codeaashu/devDisplay?style=social) 
   ![GitHub issues](https://img.shields.io/github/issues/codeaashu/devDisplay?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codeaashu/devDisplay?style=social)
+  ![GitHub pulls](https://img.shields.io/github/issues-pr/codeaashu/devDisplay?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
 
 <hr>
