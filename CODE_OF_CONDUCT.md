@@ -1,6 +1,6 @@
-## Code of Conduct for devFind
+## Code of Conduct for devDisplay
 
-devFind is an open source project that welcomes all individuals regardless of their background, experience level, or identity. We strive to foster an inclusive and respectful community where everyone feels safe and supported.
+devDisplay is an open source project that welcomes all individuals regardless of their background, experience level, or identity. We strive to foster an inclusive and respectful community where everyone feels safe and supported.
 
 As contributors and maintainers of this project, we pledge to adhere to the following code of conduct:
 
@@ -20,4 +20,4 @@ As contributors and maintainers of this project, we pledge to adhere to the foll
 
 We encourage all members of our community to uphold this code of conduct and to help us create a safe, inclusive, and welcoming environment for all. If you witness or experience any behavior that violates this code of conduct, please report it to the project maintainers immediately.
 
-Thank you for your participation in the devFind community.
+Thank you for your participation in the devDisplay community.

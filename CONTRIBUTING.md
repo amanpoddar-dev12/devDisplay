@@ -1,13 +1,13 @@
-Thank you for your interest in contributing to devFind! Here's a guide to get you started on your exciting coding adventure! 🚀
+Thank you for your interest in contributing to devDisplay! Here's a guide to get you started on your exciting coding adventure! 🚀
 
 ## **Set up your environment**
 
-To embark on your devFind journey, you'll need a few tools. Make sure you have Node.js and Git installed on your computer. You can download Node.js from the [official website](https://nodejs.org/en/download). For Git, visit [this link](https://git-scm.com/downloads).
+To embark on your devDisplay journey, you'll need a few tools. Make sure you have Node.js and Git installed on your computer. You can download Node.js from the [official website](https://nodejs.org/en/download). For Git, visit [this link](https://git-scm.com/downloads).
 
-Once you have these in place, let's get the devFind repository onto your local machine. Fire up your terminal and run this command:
+Once you have these in place, let's get the devDisplay repository onto your local machine. Fire up your terminal and run this command:
 
 ```bash
-git clone https://github.com/shyamtawli/devFind.git
+git clone https://github.com/codeaashu/devDisplay.git
 ```
 
 ## **Install dependencies**
@@ -15,7 +15,7 @@ git clone https://github.com/shyamtawli/devFind.git
 Time to gather our supplies! Navigate to the project folder in your terminal and install the dependencies with these magical incantations:
 
 ```bash
-cd devFind
+cd devDisplay
 npm install
 ```
 
@@ -37,7 +37,7 @@ git checkout -b your-branch-name
 
 ## **Make Your Changes**
 
-The world of devFind is your oyster! Make your changes, tweak existing code, add dazzling new features, or zap those pesky bugs.
+The world of devDisplay is your oyster! Make your changes, tweak existing code, add dazzling new features, or zap those pesky bugs.
 
 ## **Test Your Changes**
 
@@ -68,7 +68,7 @@ git push origin your-branch-name
 
 ## **Create a Pull Request**
 
-Your masterpiece is ready for the world to see! Navigate to the devFind repository on GitHub, and with a flourish, click the "New pull request" button. Follow the magical instructions to create your pull request.
+Your masterpiece is ready for the world to see! Navigate to the devDisplay repository on GitHub, and with a flourish, click the "New pull request" button. Follow the magical instructions to create your pull request.
 
 ## **Participate in Code Reviews**
 
@@ -76,4 +76,4 @@ Your spellbinding creation will be reviewed by fellow wizards and witches to ens
 
 ## **Merge Your Changes**
 
-When your pull request is blessed by the council of wizards and passes all tests, it can be merged into the main codebase. Congratulations, you've successfully left your mark on devFind! 🪄🔮✨
+When your pull request is blessed by the council of wizards and passes all tests, it can be merged into the main codebase. Congratulations, you've successfully left your mark on devDisplay! 🪄🔮✨

@@ -1,24 +1,27 @@
-<div align="center">
-<h1>👩‍💻 devFind - Discover and Connect with Skilled Developers!</h1>
+<div align="center">                                                                        
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/devDisplay)
+  ![GitHub stars](https://img.shields.io/github/stars/codeaashu/devDisplay?style=social) 
+  ![GitHub forks](https://img.shields.io/github/forks/codeaashu/devDisplay?style=social)
+  ![GitHub pulls](https://img.shields.io/github/issues-pr/codeaashu/devDisplay?style=social)
+  ![GitHub issues](https://img.shields.io/github/issues/codeaashu/devDisplay?style=social)
+  ![GitHub LICENSE](https://img.shields.io/github/license/codeaashu/devDisplay?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
+
+<hr>
+  <h1 align="center">👨🏻‍💻 Introducing to DevDisplay 👨🏻‍💻</h1>
+  <img src="./public/devDisplayLOGO.png" width="100px" />
+  <br><a href="https://devdisplay.vercel.app/"><strong>Dev Display</strong></a>
+  <h4 align="center">✦ Discover and Connect with Skilled Developers! ✦</h4></br>
+  
+  ` DevDisplay is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format. `
 </div>
 
-<p align="center">
-   <a href="https://github.com/shyamtawli/devFind/blob/master/LICENSE" target="blank">
-   <img src="https://img.shields.io/github/license/shyamtawli/devFind?style=for-the-badge&logo=appveyor" alt="License" />
-   </a>
-   <a href="https://github.com/shyamtawli/devFind/fork" target="blank">
-   <img src="https://img.shields.io/github/forks/shyamtawli/devFind?style=for-the-badge&logo=appveyor" alt="Forks"/>
-   </a>
-   <a href="https://github.com/shyamtawli/devFind/stargazers" target="blank">
-   <img src="https://img.shields.io/github/stars/shyamtawli/devFind?style=for-the-badge&logo=appveyor" alt="Star"/>
-   </a>
-   <a href="https://github.com/shyamtawli/devFind/issues" target="blank">
-   <img src="https://img.shields.io/github/issues/shyamtawli/devFind.svg?style=for-the-badge&logo=appveyor" alt="Click Vote Issue"/>
-   </a>
-   <a href="https://github.com/shyamtawli/devFind/pulls" target="blank">
-   <img src="https://img.shields.io/github/issues-pr/shyamtawli/devFind.svg?style=for-the-badge&logo=appveyor" alt="Click Vote Open Pull Request"/>
-   </a>
-</p>
+
+
+<div align="center">
+<h1>👩‍💻 devDisplay - Discover and Connect with Skilled Developers!</h1>
+</div>
 
 ## Table of Contents
 
@@ -39,17 +42,17 @@
 
 ## About 🚀
 
-- devFind - [Website](https://dev-find.vercel.app/)
-- **`devFind`** is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.
-- With **`devFind`**, developers can create their profiles in JSON format, which are then displayed on the web for others to discover.
+- devDisplay - [Website](https://devDisplay.vercel.app/)
+- **`devDisplay`** is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.
+- With **`devDisplay`**, developers can create their profiles in JSON format, which are then displayed on the web for others to discover.
 
 <a id="features"></a>
 
 ## Features 💪
 
-- One of the key features of **`devFind`** is its powerful search functionality.
-- Users can search for developers based on specific skills, locations or name, making it easy to find developers with expertise in a particular technology or programming language.
-- This makes **`devFind`** a valuable resource for project managers, recruiters, and anyone looking to connect with skilled developers for collaboration or employment opportunities.
+- One of the key features of **`devDisplay`** is its powerful search functionality.
+- Users can search for developers based on specific skills, locations or name, making it easy to Display developers with expertise in a particular technology or programming language.
+- This makes **`devDisplay`** a valuable resource for project managers, recruiters, and anyone looking to connect with skilled developers for collaboration or employment opportunities.
 
 <a id="how-to-add-your-profile-data"></a>
 
@@ -57,80 +60,13 @@
 
 > Thank you for your interest in contributing to our open-source project! <br>
 
-<a id="prerequisites"></a>
-
-### Prerequisites
-
-- A GitHub account
-- Git installed on your local development environment
-- Node Package Manager (npm) installed on your local development environment
-
-### How to Install Git
-
-Git is a version control system that is used to manage the source code of your project.
-
-To install Git, follow these steps:
-
-1. Download and install Git from the [Official Website](https://git-scm.com/downloads)
-2. Open the terminal or command prompt on your local development environment
-3. Verify the installation of Git by running the following command:
-
-   ```bash
-   git --version
-   ```
-
-### How to Install Node.js and npm
-
-Node.js is a JavaScript runtime environment that allows you to run JavaScript code outside of a web browser. npm (Node Package Manager) is a package manager for JavaScript, essential for managing dependencies in Node.js projects. Here's how to install Node.js and npm:
-
-1. **Download Node.js:**
-
-   - Visit the [official Node.js website](https://nodejs.org/en/download/) and download the appropriate installer for your operating system (Windows, macOS, or Linux).
-   - Choose the LTS (Long Term Support) version for stable releases or the latest version for cutting-edge features.
-   - Follow the installation instructions provided by the installer.
-
-2. **Verify Node.js Installation:**
-
-   - After the installation is complete, open your terminal or command prompt.
-   - To verify that Node.js has been installed successfully, type the following command and press Enter:
-
-     ```
-     node -v
-     ```
-
-   - This command should display the version of Node.js installed on your system. If it does, Node.js installation was successful.
-
-3. **Verify npm Installation:**
-
-   - npm comes bundled with Node.js, so once Node.js is installed, npm is automatically installed as well.
-   - To confirm that npm is installed, in your terminal or command prompt, type:
-
-     ```
-     npm -v
-     ```
-
-   - Press Enter. This command should display the version of npm installed on your system. If it does, npm installation was successful.
-
-4. **Optional: Update npm (recommended):**
-
-   - It's recommended to keep npm up to date to access the latest features and bug fixes.
-   - To update npm to the latest version, type the following command and press Enter:
-
-     ```
-     npm install -g npm@latest
-     ```
-
-   - This command will update npm to the latest stable version globally (-g flag).
-
-By following these steps, you have successfully installed Node.js and npm on your system. You are now ready to start building JavaScript applications and managing dependencies with npm.
-
 ### Steps to Add Your Profile Data
 
 1. **Fork the repository:** To create a copy of the repository in your GitHub account, click on the "Fork" button in the top right corner of the project repository page.
 2. **Clone the forked repository:** To clone the repository to your local development environment, open the terminal or command prompt and run the following command:
 
    ```bash
-   git clone https://github.com/<your-github-username>/devFind.git
+   git clone https://github.com/<your-github-username>/devDisplay.git
    ```
 
 3. **Install dependencies:** To install the necessary dependencies for the project, navigate to the project directory and run the following command:
@@ -196,8 +132,8 @@ Contributions make the open source community such an amazing place to learn, ins
 
 ## Contributors 🤝
 
-<a href="https://github.com/shyamtawli/devFind/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=shyamtawli/devFind" />
+<a href="https://github.com/codeaashu/devDisplay/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeaashu/devDisplay" />
 </a>
 
 <a id="license"></a>
