@@ -14,7 +14,6 @@
   <br><a href="https://devdisplay.vercel.app/"><strong>Dev Display</strong></a>
   <h4 align="center">✦ Discover and Connect with Skilled Developers! ✦</h4></br>
   
-  
   ` DevDisplay is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format. `
 </div>
 
