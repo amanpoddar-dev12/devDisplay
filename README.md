@@ -2,9 +2,10 @@
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/devDisplay)
   ![GitHub stars](https://img.shields.io/github/stars/codeaashu/devDisplay?style=social) 
-  ![GitHub issues](https://img.shields.io/github/issues/codeaashu/devDisplay?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codeaashu/devDisplay?style=social)
   ![GitHub pulls](https://img.shields.io/github/issues-pr/codeaashu/devDisplay?style=social)
+  ![GitHub issues](https://img.shields.io/github/issues/codeaashu/devDisplay?style=social)
+  ![GitHub LICENSE](https://img.shields.io/github/license/codeaashu/devDisplay?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
 
 <hr>
@@ -22,24 +23,6 @@
 <div align="center">
 <h1>👩‍💻 devDisplay - Discover and Connect with Skilled Developers!</h1>
 </div>
-
-<p align="center">
-   <a href="https://github.com/codeaashu/devDisplay/blob/master/LICENSE" target="blank">
-   <img src="https://img.shields.io/github/license/codeaashu/devDisplay?style=for-the-badge&logo=appveyor" alt="License" />
-   </a>
-   <a href="https://github.com/codeaashu/devDisplay/fork" target="blank">
-   <img src="https://img.shields.io/github/forks/codeaashu/devDisplay?style=for-the-badge&logo=appveyor" alt="Forks"/>
-   </a>
-   <a href="https://github.com/codeaashu/devDisplay/stargazers" target="blank">
-   <img src="https://img.shields.io/github/stars/codeaashu/devDisplay?style=for-the-badge&logo=appveyor" alt="Star"/>
-   </a>
-   <a href="https://github.com/codeaashu/devDisplay/issues" target="blank">
-   <img src="https://img.shields.io/github/issues/codeaashu/devDisplay.svg?style=for-the-badge&logo=appveyor" alt="Click Vote Issue"/>
-   </a>
-   <a href="https://github.com/codeaashu/devDisplay/pulls" target="blank">
-   <img src="https://img.shields.io/github/issues-pr/codeaashu/devDisplay.svg?style=for-the-badge&logo=appveyor" alt="Click Vote Open Pull Request"/>
-   </a>
-</p>
 
 ## Table of Contents
 
