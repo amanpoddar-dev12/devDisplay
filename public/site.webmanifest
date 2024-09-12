@@ -1,6 +1,6 @@
 {
-  "name": "devfind",
-  "short_name": "devfind",
+  "name": "devDisplay",
+  "short_name": "devDisplay",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
