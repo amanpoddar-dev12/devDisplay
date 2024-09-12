@@ -24,10 +24,10 @@ function Sidebar() {
         <div className="text-secondaryColor dark:text-white">
           <FontAwesomeIcon icon={faCode} size="2xl" />
         </div>
-        <a href="https://dev-find.vercel.app/">
+        <a href="https://devdisplay.vercel.app/">
           <div className="flex text-[2rem] font-bold md:text-[1rem] lg:text-[2rem]">
             <p className="text-secondaryColor dark:text-white">dev</p>
-            <p className="text-textSecondary">Find</p>
+            <p className="text-textSecondary">Display</p>
           </div>
         </a>
         <div className="ml-auto">
@@ -46,7 +46,7 @@ function Sidebar() {
       </div>
       <div className="text-secondaryColor dark:text-white">Discover and Connect with Skilled Developers.</div>
       <div className="pt-5">
-        <a href="https://github.com/shyamtawli/devFind#how-to-add-your-profile-" target="_blank" rel="noreferrer">
+        <a href="https://github.com/codeaashu/devDisplay#how-to-add-your-profile-" target="_blank" rel="noreferrer">
           <button className="inline-block cursor-pointer rounded-lg border-2 border-textSecondary bg-textSecondary px-[15px] py-1.5 text-center font-poppoins text-sm transition-all duration-500 hover:bg-transparent hover:text-textSecondary dark:text-white">
             Add your profile
           </button>
