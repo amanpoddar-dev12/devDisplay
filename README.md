@@ -1,22 +1,22 @@
 <div align="center">
-<h1>👩‍💻 devFind - Discover and Connect with Skilled Developers!</h1>
+<h1>👩‍💻 devDisplay - Discover and Connect with Skilled Developers!</h1>
 </div>
 
 <p align="center">
-   <a href="https://github.com/shyamtawli/devFind/blob/master/LICENSE" target="blank">
-   <img src="https://img.shields.io/github/license/shyamtawli/devFind?style=for-the-badge&logo=appveyor" alt="License" />
+   <a href="https://github.com/codeaashu/devDisplay/blob/master/LICENSE" target="blank">
+   <img src="https://img.shields.io/github/license/codeaashu/devDisplay?style=for-the-badge&logo=appveyor" alt="License" />
    </a>
-   <a href="https://github.com/shyamtawli/devFind/fork" target="blank">
-   <img src="https://img.shields.io/github/forks/shyamtawli/devFind?style=for-the-badge&logo=appveyor" alt="Forks"/>
+   <a href="https://github.com/codeaashu/devDisplay/fork" target="blank">
+   <img src="https://img.shields.io/github/forks/codeaashu/devDisplay?style=for-the-badge&logo=appveyor" alt="Forks"/>
    </a>
-   <a href="https://github.com/shyamtawli/devFind/stargazers" target="blank">
-   <img src="https://img.shields.io/github/stars/shyamtawli/devFind?style=for-the-badge&logo=appveyor" alt="Star"/>
+   <a href="https://github.com/codeaashu/devDisplay/stargazers" target="blank">
+   <img src="https://img.shields.io/github/stars/codeaashu/devDisplay?style=for-the-badge&logo=appveyor" alt="Star"/>
    </a>
-   <a href="https://github.com/shyamtawli/devFind/issues" target="blank">
-   <img src="https://img.shields.io/github/issues/shyamtawli/devFind.svg?style=for-the-badge&logo=appveyor" alt="Click Vote Issue"/>
+   <a href="https://github.com/codeaashu/devDisplay/issues" target="blank">
+   <img src="https://img.shields.io/github/issues/codeaashu/devDisplay.svg?style=for-the-badge&logo=appveyor" alt="Click Vote Issue"/>
    </a>
-   <a href="https://github.com/shyamtawli/devFind/pulls" target="blank">
-   <img src="https://img.shields.io/github/issues-pr/shyamtawli/devFind.svg?style=for-the-badge&logo=appveyor" alt="Click Vote Open Pull Request"/>
+   <a href="https://github.com/codeaashu/devDisplay/pulls" target="blank">
+   <img src="https://img.shields.io/github/issues-pr/codeaashu/devDisplay.svg?style=for-the-badge&logo=appveyor" alt="Click Vote Open Pull Request"/>
    </a>
 </p>
 
@@ -39,17 +39,17 @@
 
 ## About 🚀
 
-- devFind - [Website](https://dev-find.vercel.app/)
-- **`devFind`** is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.
-- With **`devFind`**, developers can create their profiles in JSON format, which are then displayed on the web for others to discover.
+- devDisplay - [Website](https://devDisplay.vercel.app/)
+- **`devDisplay`** is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.
+- With **`devDisplay`**, developers can create their profiles in JSON format, which are then displayed on the web for others to discover.
 
 <a id="features"></a>
 
 ## Features 💪
 
-- One of the key features of **`devFind`** is its powerful search functionality.
-- Users can search for developers based on specific skills, locations or name, making it easy to find developers with expertise in a particular technology or programming language.
-- This makes **`devFind`** a valuable resource for project managers, recruiters, and anyone looking to connect with skilled developers for collaboration or employment opportunities.
+- One of the key features of **`devDisplay`** is its powerful search functionality.
+- Users can search for developers based on specific skills, locations or name, making it easy to Display developers with expertise in a particular technology or programming language.
+- This makes **`devDisplay`** a valuable resource for project managers, recruiters, and anyone looking to connect with skilled developers for collaboration or employment opportunities.
 
 <a id="how-to-add-your-profile-data"></a>
 
@@ -130,7 +130,7 @@ By following these steps, you have successfully installed Node.js and npm on you
 2. **Clone the forked repository:** To clone the repository to your local development environment, open the terminal or command prompt and run the following command:
 
    ```bash
-   git clone https://github.com/<your-github-username>/devFind.git
+   git clone https://github.com/<your-github-username>/devDisplay.git
    ```
 
 3. **Install dependencies:** To install the necessary dependencies for the project, navigate to the project directory and run the following command:
@@ -196,8 +196,8 @@ Contributions make the open source community such an amazing place to learn, ins
 
 ## Contributors 🤝
 
-<a href="https://github.com/shyamtawli/devFind/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=shyamtawli/devFind" />
+<a href="https://github.com/codeaashu/devDisplay/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeaashu/devDisplay" />
 </a>
 
 <a id="license"></a>
